@@ -1,0 +1,3 @@
+#Ignoring node modules for Node projects
+Asyncronism/node_modules
+Jest/node_modules
